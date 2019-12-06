@@ -7,7 +7,7 @@
 
 # Awesome TheHive [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of awesome things related to TheHive &amp; Cortex
+> A curated list of awesome things related to [TheHive](#thehive) &amp; [Cortex](#cortex)
 
 ## TheHive
 
@@ -27,6 +27,7 @@
 
 - [TheHive4Py](https://github.com/TheHive-Project/TheHive4py) - TheHive API client written in Python
 - [hive4go](https://github.com/frikky/hive4go) - A Golang API for TheHive, by [@frikky](https://github.com/frikky)
+- [go-thehive](https://github.com/ilyaglow/go-thehive) - A Golang API for TheHive, by [@ilyaglow](https://github.com/ilyaglow)
 - [TheHive4PS](https://github.com/vi-or-die/TheHive4PS) - A Golang API for TheHive, by [@vi-or-die](https://github.com/vi-or-die)
 
 ### Integrations
@@ -34,7 +35,9 @@
 - [Synapse](https://github.com/TheHive-Project/Synapse) - Meta Alert feeder, inluding Qradar and Exchange connectors
 - [DigitalShadows2TH](https://github.com/TheHive-Project/DigitalShadows2TH) - Alert feeder for DigitalShadows
 - [Zerofox2TH](https://github.com/TheHive-Project/Zerofox2TH) - Alert feeder for ZeroFox
+- [CrowdStrike2TH](https://github.com/xg5-simon/CrowdStrike2TH) - Alert feeder for CrowdStrike, by [@xg5-simon](https://github.com/xg5-simon)
 - [graylog2thehive](https://github.com/ReconInfoSec/graylog2thehive) - Alert feeder for Graylog, by [@ReconInfoSec](https://github.com/ReconInfoSec)
+- [mailgun2thehive](https://github.com/ReconInfoSec/mailgun2thehive) - Simple Python flask app that runs as a web server, and accepts POST requests from your Mailgun routes, by [@ReconInfoSec](https://github.com/ReconInfoSec)
 - [qradar2thehive](https://github.com/pierrebarlet/qradar2thehive) - Alert feeder for Qradar, by [@pierrebarlet](https://github.com/pierrebarlet)
 - [TA-thehive](https://github.com/remg427/TA-thehive) - Splunk Application for TheHive, by [@remg427](https://github.com/remg427)
 - [thehiveemail](https://github.com/ReconInfoSec/thehiveemail) - Reading and processing of email folders for TheHive + Autoupdating case histories, by [@ReconInfoSec](https://github.com/ReconInfoSec)
@@ -65,6 +68,23 @@ TODO
 ## Cortex
 
 TODO
+
+## Unsorted
+
+https://github.com/ilyaglow/go-cortex
+https://github.com/ilyaglow/cortex-tgbot
+https://github.com/drewstinnett/ansible-thehive
+https://github.com/rhythmictech/ansible-thehive
+https://github.com/drewstinnett/ansible-cortex
+https://github.com/rhythmictech/ansible-cortex
+https://github.com/norgalades/SendEmail
+https://github.com/ilyaglow/thehive-scripts
+https://github.com/ag-michael/thehive-falcon
+https://github.com/rhythmictech/thehive-standalone
+https://github.com/ninoseki/itamae_thehive
+https://github.com/xg5-simon/SendIt
+https://github.com/ReconInfoSec/thehive-slack-webhook
+https://github.com/vi-or-die/TheHive-Integrations
 
 ## Contribute
 
