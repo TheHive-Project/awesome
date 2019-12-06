@@ -43,7 +43,7 @@
 ### Tools
 
 - [Pollen](https://github.com/bromiley/pollen) - A command-line tool for interacting with TheHive, by @bromiley
-- [mihari](https://github.com/ninoseki/mihari) - A sidekick tool for TheHive to monitor malicious hosts
+- [mihari](https://github.com/ninoseki/mihari) - A sidekick tool for TheHive to monitor malicious hosts, by @ninoseki
 
 ### Devops
 
