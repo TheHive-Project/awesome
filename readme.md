@@ -31,6 +31,7 @@
 
 ### Integrations
 
+- [Synapse](https://github.com/TheHive-Project/Synapse) - Meta Alert feeder, inluding Qradar and Exchange connectors
 - [DigitalShadows2TH](https://github.com/TheHive-Project/DigitalShadows2TH) - Alert feeder for DigitalShadows
 - [Zerofox2TH](https://github.com/TheHive-Project/Zerofox2TH) - Alert feeder for ZeroFox
 - [graylog2thehive](https://github.com/ReconInfoSec/graylog2thehive) - Alert feeder for Graylog, by [@ReconInfoSec](https://github.com/ReconInfoSec)
