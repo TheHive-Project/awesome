@@ -26,24 +26,24 @@
 ### Libraries
 
 - [TheHive4Py](https://github.com/TheHive-Project/TheHive4py) - TheHive API client written in Python
-- [hive4go](https://github.com/frikky/hive4go) - A Golang API for TheHive, by @frikky
-- [TheHive4PS](https://github.com/vi-or-die/TheHive4PS) - A Golang API for TheHive, by @vi-or-die
+- [hive4go](https://github.com/frikky/hive4go) - A Golang API for TheHive, by [@frikky](https://github.com/frikky)
+- [TheHive4PS](https://github.com/vi-or-die/TheHive4PS) - A Golang API for TheHive, by [@vi-or-die](https://github.com/vi-or-die)
 
 ### Integrations
 
 - [DigitalShadows2TH](https://github.com/TheHive-Project/DigitalShadows2TH) - Alert feeder for DigitalShadows
 - [Zerofox2TH](https://github.com/TheHive-Project/Zerofox2TH) - Alert feeder for ZeroFox
-- [graylog2thehive](https://github.com/ReconInfoSec/graylog2thehive) - Alert feeder for Graylog, by @ReconInfoSec
-- [qradar2thehive](https://github.com/pierrebarlet/qradar2thehive) - Alert feeder for Qradar, by @pierrebarlet
-- [TA-thehive](https://github.com/remg427/TA-thehive) - Splunk Application for TheHive, by @remg427
-- [thehiveemail](https://github.com/ReconInfoSec/thehiveemail) - Reading and processing of email folders for TheHive + Autoupdating case histories, by @ReconInfoSec
-- [Elastalert TheHive alerter](https://github.com/Nclose-ZA/elastalert_hive_alerter) - Elastalert connector for TheHive, by @Nclose-ZA
+- [graylog2thehive](https://github.com/ReconInfoSec/graylog2thehive) - Alert feeder for Graylog, by [@ReconInfoSec](https://github.com/ReconInfoSec)
+- [qradar2thehive](https://github.com/pierrebarlet/qradar2thehive) - Alert feeder for Qradar, by [@pierrebarlet](https://github.com/pierrebarlet)
+- [TA-thehive](https://github.com/remg427/TA-thehive) - Splunk Application for TheHive, by [@remg427](https://github.com/remg427)
+- [thehiveemail](https://github.com/ReconInfoSec/thehiveemail) - Reading and processing of email folders for TheHive + Autoupdating case histories, by [@ReconInfoSec](https://github.com/ReconInfoSec)
+- [Elastalert TheHive alerter](https://github.com/Nclose-ZA/elastalert_hive_alerter) - Elastalert connector for TheHive, by [@Nclose-ZA](https://github.com/Nclose-ZA)
 - [StackStorm](https://github.com/StackStorm-Exchange/stackstorm-thehive) - TheHive pack for StackStorm
 
 ### Tools
 
-- [Pollen](https://github.com/bromiley/pollen) - A command-line tool for interacting with TheHive, by @bromiley
-- [mihari](https://github.com/ninoseki/mihari) - A sidekick tool for TheHive to monitor malicious hosts, by @ninoseki
+- [Pollen](https://github.com/bromiley/pollen) - A command-line tool for interacting with TheHive, by [@bromiley](https://github.com/bromiley)
+- [mihari](https://github.com/ninoseki/mihari) - A sidekick tool for TheHive to monitor malicious hosts, by [@ninoseki](https://github.com/ninoseki)
 
 ### Devops
 
@@ -54,7 +54,7 @@ TODO
 - [Security Distractions](https://www.securitydistractions.com/category/the-hive/)
 - [agood.cloud](https://blog.agood.cloud/)
 - [SANS ISC InfoSec Forums](https://isc.sans.edu/forums/diary/IR+using+the+Hive+Project/23099/) - IR using TheHive Project.
-- [Chris Sanders blog](https://chrissanders.org/2017/03/case-management-the-hive/) - Investigation Case Management with TheHive, by @chrissanders88
+- [Chris Sanders blog](https://chrissanders.org/2017/03/case-management-the-hive/) - Investigation Case Management with TheHive, by [@chrissanders88](https://github.com/chrissanders88)
 - [Cisco Umbrella blog](https://umbrella.cisco.com/blog/2018/11/12/now-available-hive-cortex-analyzer-and-maltego-transform-for-investigate/) - Hive-Cortex Analyzer and Maltego Transform for Investigate
 
 ### Podcasts
