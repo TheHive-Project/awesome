@@ -28,7 +28,7 @@
 - [TheHive4Py](https://github.com/TheHive-Project/TheHive4py) - TheHive API client written in Python
 - [hive4go](https://github.com/frikky/hive4go) - A Golang API for TheHive, by [@frikky](https://github.com/frikky)
 - [go-thehive](https://github.com/ilyaglow/go-thehive) - A Golang API for TheHive, by [@ilyaglow](https://github.com/ilyaglow)
-- [TheHive4PS](https://github.com/vi-or-die/TheHive4PS) - A Golang API for TheHive, by [@vi-or-die](https://github.com/vi-or-die)
+- [TheHive4PS](https://github.com/vi-or-die/TheHive4PS) - PowerShell functions to interact with TheHive API, by [@vi-or-die](https://github.com/vi-or-die)
 
 ### Integrations
 
