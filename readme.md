@@ -29,7 +29,7 @@
 - [hive4go](https://github.com/frikky/hive4go) - A Golang API for TheHive, by [@frikky](https://github.com/frikky)
 - [go-thehive](https://github.com/ilyaglow/go-thehive) - A Golang API for TheHive, by [@ilyaglow](https://github.com/ilyaglow)
 - [TheHive4PS](https://github.com/vi-or-die/TheHive4PS) - PowerShell functions to interact with TheHive API, by [@vi-or-die](https://github.com/vi-or-die)
-- [TheHive4node](https://www.npmjs.com/package/thehive4node) - TheHive API client written in node
+- [TheHive4node](https://www.npmjs.com/package/thehive4node) - TheHive API client written in node, by [@agix](https://github.com/agix)
 
 ### Integrations
 
