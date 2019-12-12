@@ -49,6 +49,7 @@
 - [Elastalert TheHive alerter](https://github.com/Nclose-ZA/elastalert_hive_alerter) - Elastalert connector for TheHive, by [@Nclose-ZA](https://github.com/Nclose-ZA)
 - [StackStorm](https://github.com/StackStorm-Exchange/stackstorm-thehive) - TheHive pack for StackStorm
 - [TheHive Opendxl](https://www.opendxl.com/filebase/index.php?file/92-thehive-dxl-python-service/) - TheHive service for use with the OpenDXL Python Client
+- [OpenAPI definition](https://github.com/frikky/OpenAPI-security-definitions) - OpenAPI definition for TheHive
 
 ### Tools
 
