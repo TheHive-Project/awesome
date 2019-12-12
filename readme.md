@@ -66,7 +66,7 @@ TODO
 - [SANS ISC InfoSec Forums](https://isc.sans.edu/forums/diary/IR+using+the+Hive+Project/23099/) - IR using TheHive Project.
 - [Chris Sanders blog](https://chrissanders.org/2017/03/case-management-the-hive/) - Investigation Case Management with TheHive, by [@chrissanders88](https://github.com/chrissanders88)
 - [Cisco Umbrella blog](https://umbrella.cisco.com/blog/2018/11/12/now-available-hive-cortex-analyzer-and-maltego-transform-for-investigate/) - Hive-Cortex Analyzer and Maltego Transform for Investigate
-- [SOAR webhook integration](https://medium.com/@Frikkylikeme/automation-for-everyone-with-thehive-and-walkoff-6691f1343238) - Example integration between TheHive and NSA's WALKOFF project
+- [SOAR webhook integration](https://medium.com/@Frikkylikeme/automation-for-everyone-with-thehive-and-walkoff-6691f1343238) - Example integration between TheHive and NSA's [WALKOFF](https://github.com/nsacyber/WALKOFF) project
 
 ### Podcasts
 
