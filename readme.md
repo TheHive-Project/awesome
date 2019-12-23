@@ -11,10 +11,11 @@
 
 ## TheHive
 
-- [Official Resources](#official-resources)
-- [Libraries](#libraries)
-- [Integrations](#integrations)
-- [Tools](#tools)
+- [Official Resources](#official-resources-1)
+- [Libraries](#libraries-1)
+- [Integrations](#integrations-1)
+- [Tools](#tools-1)
+- [Devops](#devops-1)
 
 ### Official Resources
 
@@ -26,13 +27,12 @@
 
 ### Libraries
 
-- [TheHive4Py](https://github.com/TheHive-Project/TheHive4py) - TheHive API client written in Python
+- [TheHive4Py](https://github.com/TheHive-Project/TheHive4py) - Official TheHive API client written in Python
 - [thehive.js](https://github.com/TheHive-Project/thehive.js) - TheHive API client written in Javascript (WIP)
 - [hive4go](https://github.com/frikky/hive4go) - A Golang API for TheHive, by [@frikky](https://github.com/frikky)
 - [go-thehive](https://github.com/ilyaglow/go-thehive) - A Golang API for TheHive, by [@ilyaglow](https://github.com/ilyaglow)
 - [TheHive4PS](https://github.com/vi-or-die/TheHive4PS) - PowerShell functions to interact with TheHive API, by [@vi-or-die](https://github.com/vi-or-die)
 - [TheHive4node](https://www.npmjs.com/package/thehive4node) - TheHive API client written in Node (WIP), by [@agix](https://github.com/agix)
-
 
 ### Integrations
 
@@ -46,10 +46,12 @@
 - [qradar2thehive](https://github.com/pierrebarlet/qradar2thehive) - Alert feeder for Qradar, by [@pierrebarlet](https://github.com/pierrebarlet)
 - [TA-thehive](https://github.com/remg427/TA-thehive) - Splunk Application for TheHive, by [@remg427](https://github.com/remg427)
 - [thehiveemail](https://github.com/ReconInfoSec/thehiveemail) - Reading and processing of email folders for TheHive + Autoupdating case histories, by [@ReconInfoSec](https://github.com/ReconInfoSec)
+- [thehive-falcon](https://github.com/ag-michael/thehive-falcon) - Falcon streaming api alert integration for TheHive, by [@ag-michael](https://github.com/ag-michael)
 - [Elastalert TheHive alerter](https://github.com/Nclose-ZA/elastalert_hive_alerter) - Elastalert connector for TheHive, by [@Nclose-ZA](https://github.com/Nclose-ZA)
 - [StackStorm](https://github.com/StackStorm-Exchange/stackstorm-thehive) - TheHive pack for StackStorm
 - [TheHive Opendxl](https://www.opendxl.com/filebase/index.php?file/92-thehive-dxl-python-service/) - TheHive service for use with the OpenDXL Python Client
 - [TheHive OpenAPI definition](https://github.com/frikky/OpenAPI-security-definitions/blob/master/thehive.yaml) - OpenAPI definition for TheHive, by [@frikky](https://github.com/frikky)
+- [https://github.com/ReconInfoSec/thehive-slack-webhook](https://github.com/ReconInfoSec/thehive-slack-webhook) - A simple Lambda function for delivering The Hive webhooks to Slack, by [ReconInfoSec](https://github.com/ReconInfoSec)
 
 ### Tools
 
@@ -58,7 +60,10 @@
 
 ### Devops
 
-TODO
+- [itamae_thehive](https://github.com/ninoseki/itamae_thehive) - Automated installation of TheHive/Cortex by using Itamae, by [ninoseki](https://github.com/ninoseki)
+- [ansible-thehive 1](https://github.com/drewstinnett/ansible-thehive) - Ansible role for installing TheHive, by [@drewstinnett](https://github.com/drewstinnett)
+- [ansible-thehive 2](https://github.com/rhythmictech/ansible-thehive) - Ansible Role for TheHive, by [@rhythmictech](https://github.com/rhythmictech)
+- [thehive-standalone](https://github.com/rhythmictech/thehive-standalone) - Terraform module and supporting tools to build and create a fully self-contained instance of TheHive and Cortex, by [@rhythmictech](https://github.com/rhythmictech)
 
 ### Blogs & Articles
 
@@ -75,24 +80,38 @@ TODO
 
 ## Cortex
 
-TODO
+- [Official Resources](#official-resources-2)
+- [Libraries](#libraries-2)
+- [Analyzers & Responders](#analyzers-responders)
+- [Tools](#tools-2)
+- [Devops](#devops-2)
 
-## Unsorted
+### Official Resources
 
-- [https://github.com/ilyaglow/go-cortex](https://github.com/ilyaglow/go-cortex)
-- [https://github.com/ilyaglow/cortex-tgbot](https://github.com/ilyaglow/cortex-tgbot)
-- [https://github.com/drewstinnett/ansible-thehive](https://github.com/drewstinnett/ansible-thehive)
-- [https://github.com/rhythmictech/ansible-thehive](https://github.com/rhythmictech/ansible-thehive)
-- [https://github.com/drewstinnett/ansible-cortex](https://github.com/drewstinnett/ansible-cortex)
-- [https://github.com/rhythmictech/ansible-cortex](https://github.com/rhythmictech/ansible-cortex)
-- [https://github.com/norgalades/SendEmail](https://github.com/norgalades/SendEmail)
-- [https://github.com/ilyaglow/thehive-scripts](https://github.com/ilyaglow/thehive-scripts)
-- [https://github.com/ag-michael/thehive-falcon](https://github.com/ag-michael/thehive-falcon)
-- [https://github.com/rhythmictech/thehive-standalone](https://github.com/rhythmictech/thehive-standalone)
-- [https://github.com/ninoseki/itamae_thehive](https://github.com/ninoseki/itamae_thehive)
-- [https://github.com/xg5-simon/SendIt](https://github.com/xg5-simon/SendIt)
-- [https://github.com/ReconInfoSec/thehive-slack-webhook](https://github.com/ReconInfoSec/thehive-slack-webhook)
-- [https://github.com/vi-or-die/TheHive-Integrations](https://github.com/vi-or-die/TheHive-Integrations)
+- [Official Docs](https://github.com/TheHive-Project/CortexDocs)
+- [GitHub Repo](https://github.com/TheHive-Project/Cortex)
+- [Release Notes](https://github.com/TheHive-Project/Cortex/releases)
+
+### Libraries
+
+- [Cortex4Py](https://github.com/TheHive-Project/Cortex4py) - Official Cortex API client written in Python
+- [go-cortex](https://github.com/ilyaglow/go-cortex) - Cortex API client written in Golang, by [@ilyaglow](https://github.com/ilyaglow)
+
+### Analyzers & Responders
+
+- [Cortex-Analyzers](https://github.com/TheHive-Project/Cortex-Analyzers) - Official Cortex Analyzers and Responders collection
+- [SendEmail](https://github.com/norgalades/SendEmail) - Cortex Responder to send emails from TheHive tasks and logs, by [@norgalades](https://github.com/norgalades)
+- [Cortex-Analyzers by @aacgood](https://github.com/aacgood/Cortex-Analyzers) - A collection of Cortex Analyzers and Responders for TheHive/Cortex, by [@aacgood](https://github.com/aacgood)
+
+### Tools
+
+- [cortex-tgbot](https://github.com/ilyaglow/cortex-tgbot) - Threat intelligence Telegram bot based on Cortex engine, by [@ilyaglow](https://github.com/ilyaglow)
+- [cortextester](https://github.com/TKCERT/cortextester) - Inspired by cortexutils - a testing framework for Cortex-Analyzers and -Responders, by [@TKCERT](https://github.com/TKCERT)
+
+### Devops
+
+- [ansible-cortex 1](https://github.com/drewstinnett/ansible-cortex) - Ansible module for installing Cortex, by [@drewstinnett](https://github.com/drewstinnett)
+- [ansible-cortex 2](https://github.com/rhythmictech/ansible-cortex) - Ansible role for Cortex, an observable analyzer that works with TheHive, by [@rhythmictech](https://github.com/rhythmictech)
 
 ## Contribute
 
