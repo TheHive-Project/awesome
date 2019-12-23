@@ -11,11 +11,11 @@
 
 ## TheHive
 
-- [Official Resources](#official-resources-1)
-- [Libraries](#libraries-1)
-- [Integrations](#integrations-1)
-- [Tools](#tools-1)
-- [Devops](#devops-1)
+- [Official Resources](#official-resources)
+- [Libraries](#libraries)
+- [Integrations](#integrations)
+- [Tools](#tools)
+- [Devops](#devops)
 
 ### Official Resources
 
@@ -80,11 +80,11 @@
 
 ## Cortex
 
-- [Official Resources](#official-resources-2)
-- [Libraries](#libraries-2)
+- [Official Resources](#official-resources-1)
+- [Libraries](#libraries-1)
 - [Analyzers & Responders](#analyzers-responders)
-- [Tools](#tools-2)
-- [Devops](#devops-2)
+- [Tools](#tools-1)
+- [Devops](#devops-1)
 
 ### Official Resources
 
