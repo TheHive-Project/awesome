@@ -118,7 +118,7 @@
 
 ### Blogs & Articles
 
-- [Nviso Labs](https://blog.nviso.eu/2020/01/13/creating-responders-in-the-hive), by (@NVISO-BE)[https://github.com/NVISO-BE]
+- [Nviso Labs](https://blog.nviso.eu/2020/01/13/creating-responders-in-the-hive) - Creating Responders in TheHive, by [@NVISO-BE](https://github.com/NVISO-BE)
 
 ## Contribute
 
