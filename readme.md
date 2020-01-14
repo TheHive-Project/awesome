@@ -16,6 +16,7 @@
 - [Integrations](#integrations)
 - [Tools](#tools)
 - [Devops](#devops)
+- [Blogs & Articles](#blogs-articles)
 
 ### Official Resources
 
@@ -86,6 +87,7 @@
 - [Analyzers & Responders](#analyzers-responders)
 - [Tools](#tools-1)
 - [Devops](#devops-1)
+- [Blogs & Articles](#blogs-articles-1)
 
 ### Official Resources
 
@@ -113,6 +115,10 @@
 
 - [ansible-cortex 1](https://github.com/drewstinnett/ansible-cortex) - Ansible module for installing Cortex, by [@drewstinnett](https://github.com/drewstinnett)
 - [ansible-cortex 2](https://github.com/rhythmictech/ansible-cortex) - Ansible role for Cortex, an observable analyzer that works with TheHive, by [@rhythmictech](https://github.com/rhythmictech)
+
+### Blogs & Articles
+
+- [Nviso Labs](https://blog.nviso.eu/2020/01/13/creating-responders-in-the-hive), by (@NVISO-BE)[https://github.com/NVISO-BE]
 
 ## Contribute
 
