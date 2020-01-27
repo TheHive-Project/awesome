@@ -54,6 +54,7 @@
 - [TheHive OpenAPI definition](https://github.com/frikky/OpenAPI-security-definitions/blob/master/thehive.yaml) - OpenAPI definition for TheHive, by [@frikky](https://github.com/frikky)
 - [thehive-slack-webhook](https://github.com/ReconInfoSec/thehive-slack-webhook) - A simple Lambda function for delivering The Hive webhooks to Slack, by [ReconInfoSec](https://github.com/ReconInfoSec)
 - [TheHive2Sigma](https://github.com/jordisk/TheHive2Sigma) - Python script to automatically create sigma rules from Thehive observables, by [@jordisk](https://github.com/jordisk)
+- [TheHive WALKOFF app](https://github.com/frikky/WALKOFF/tree/thehive-integration) - A TheHive WALKOFF application, by [@frikky](https://github.com/frikky)
 
 ### Tools
 
