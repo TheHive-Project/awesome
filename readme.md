@@ -76,7 +76,8 @@
 - [Chris Sanders blog](https://chrissanders.org/2017/03/case-management-the-hive/) - Investigation Case Management with TheHive, by [@chrissanders88](https://github.com/chrissanders88)
 - [Cisco Umbrella blog](https://umbrella.cisco.com/blog/2018/11/12/now-available-hive-cortex-analyzer-and-maltego-transform-for-investigate/) - Hive-Cortex Analyzer and Maltego Transform for Investigate
 - [SOAR webhook integration](https://medium.com/@Frikkylikeme/automation-for-everyone-with-thehive-and-walkoff-6691f1343238) - Example integration between TheHive and NSA's [WALKOFF](https://github.com/nsacyber/WALKOFF) project
-- [DNS Threat Intelligence for Our Community - DomainTools Iris Integration](https://www.domaintools.com/resources/blog/dns-threat-intelligence-for-our-community) - How to do DNS Threat Intelligence with DomainTools Iris integration in TheHive and Cortex by Paul Sourin.  
+- [DNS Threat Intelligence for Our Community - DomainTools Iris Integration](https://www.domaintools.com/resources/blog/dns-threat-intelligence-for-our-community) - How to do DNS Threat Intelligence with DomainTools Iris integration in TheHive and Cortex by Paul Sourin.
+- [AleSecurity Blog](https://alesecurity.fi/?p=15) - How to use OAuth2/OIDC (OpenID Connect) with TheHive
 
 ### Podcasts
 
