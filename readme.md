@@ -45,7 +45,7 @@
 - [graylog2thehive](https://github.com/ReconInfoSec/graylog2thehive) - Alert feeder for Graylog, by [@ReconInfoSec](https://github.com/ReconInfoSec)
 - [mailgun2thehive](https://github.com/ReconInfoSec/mailgun2thehive) - Simple Python flask app that runs as a web server, and accepts POST requests from your Mailgun routes, by [@ReconInfoSec](https://github.com/ReconInfoSec)
 - [qradar2thehive](https://github.com/pierrebarlet/qradar2thehive) - Alert feeder for Qradar, by [@pierrebarlet](https://github.com/pierrebarlet)
-- [TA-thehive](https://github.com/remg427/TA-thehive) - Splunk Application for TheHive, by [@remg427](https://github.com/remg427)
+- [TA-thehive-CE](https://github.com/remg427/TA-thehive-ce) - Splunk Application for TheHive, by [@remg427](https://github.com/remg427)
 - [thehiveemail](https://github.com/ReconInfoSec/thehiveemail) - Reading and processing of email folders for TheHive + Autoupdating case histories, by [@ReconInfoSec](https://github.com/ReconInfoSec)
 - [thehive-falcon](https://github.com/ag-michael/thehive-falcon) - Falcon streaming api alert integration for TheHive, by [@ag-michael](https://github.com/ag-michael)
 - [Elastalert TheHive alerter](https://github.com/Nclose-ZA/elastalert_hive_alerter) - Elastalert connector for TheHive, by [@Nclose-ZA](https://github.com/Nclose-ZA)
