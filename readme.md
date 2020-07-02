@@ -79,6 +79,7 @@
 - [SOAR webhook integration](https://medium.com/@Frikkylikeme/automation-for-everyone-with-thehive-and-walkoff-6691f1343238) - Example integration between TheHive and NSA's [WALKOFF](https://github.com/nsacyber/WALKOFF) project
 - [DNS Threat Intelligence for Our Community - DomainTools Iris Integration](https://www.domaintools.com/resources/blog/dns-threat-intelligence-for-our-community) - How to do DNS Threat Intelligence with DomainTools Iris integration in TheHive and Cortex by Paul Sourin.
 - [AleSecurity Blog](https://alesecurity.fi/?p=15) - How to use OAuth2/OIDC (OpenID Connect) with TheHive
+- [Create and delete training alerts in TheHive](https://www.vanimpe.eu/2020/04/25/create-and-delete-training-alerts-in-thehive/), by Koen Van Impe
 
 ### Podcasts
 
