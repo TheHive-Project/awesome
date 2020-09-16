@@ -56,6 +56,7 @@
 - [TheHive2Sigma](https://github.com/jordisk/TheHive2Sigma) - Python script to automatically create sigma rules from Thehive observables, by [@jordisk](https://github.com/jordisk)
 - [TheHive WALKOFF app](https://github.com/frikky/WALKOFF/tree/thehive-integration) - A TheHive WALKOFF application, by [@frikky](https://github.com/frikky)
 - [Cyrating Feeder](https://github.com/vletoux/Cyrating2TH) - Cyrating Reputation alert importer for TheHive, by [vletoux](https://github.com/vletoux)
+- [Canaries to TheHive](https://github.com/ReconInfoSec/canaries2thehive) - Create alerts in TheHive from your Thinkst Canary alerts, to be turned into TheHive cases, , by [ReconInfoSec](https://github.com/ReconInfoSec)
 
 ### Tools
 
