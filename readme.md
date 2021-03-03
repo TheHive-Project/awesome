@@ -58,6 +58,7 @@
 - [Cyrating Feeder](https://github.com/vletoux/Cyrating2TH) - Cyrating Reputation alert importer for TheHive, by [vletoux](https://github.com/vletoux)
 - [Canaries to TheHive](https://github.com/ReconInfoSec/canaries2thehive) - Create alerts in TheHive from your Thinkst Canary alerts, to be turned into TheHive cases, by [ReconInfoSec](https://github.com/ReconInfoSec)
 - [Watcher](https://github.com/Felix83000/Watcher) - Open Source Cybersecurity Threat Hunting Platform. Developed with Django & React JS, by [@Felix83000](https://github.com/Felix83000)
+- [thehive-sentinel-integration](https://github.com/NVISOsecurity/thehive-sentinel-integration) - Open solution to integrate TheHive with Microsoft Azure Sentinel and implement also automation, by  [NVisoSecurity](https://github.com/NVISOsecurity)
 
 ### Tools
 
