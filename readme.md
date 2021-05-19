@@ -40,7 +40,7 @@
 - [Synapse](https://github.com/TheHive-Project/Synapse) - Meta Alert feeder, inluding Qradar and Exchange connectors
 - [DigitalShadows2TH](https://github.com/TheHive-Project/DigitalShadows2TH) - Alert feeder for DigitalShadows
 - [Zerofox2TH](https://github.com/TheHive-Project/Zerofox2TH) - Alert feeder for ZeroFox
-- [CrowdStrike2TH](https://github.com/xg5-simon/CrowdStrike2TH) - Alert feeder for CrowdStrike, by [@xg5-simon](https://github.com/xg5-simon)
+- [CrowdStrike2TH](https://github.com/theCanary/CrowdStrike2TH) - Alert feeder for CrowdStrike, by [@xg5-simon](https://github.com/xg5-simon)
 - [FireEye2TH](https://github.com/LDO-CERT/FireEye2TH) - FireEye iSIGHT Alert Feeder for TheHive, by [@LDO-CERT](https://github.com/LDO-CERT)
 - [graylog2thehive](https://github.com/ReconInfoSec/graylog2thehive) - Alert feeder for Graylog, by [@ReconInfoSec](https://github.com/ReconInfoSec)
 - [mailgun2thehive](https://github.com/ReconInfoSec/mailgun2thehive) - Simple Python flask app that runs as a web server, and accepts POST requests from your Mailgun routes, by [@ReconInfoSec](https://github.com/ReconInfoSec)
