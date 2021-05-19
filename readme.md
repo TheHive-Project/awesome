@@ -40,7 +40,7 @@
 - [Synapse](https://github.com/TheHive-Project/Synapse) - Meta Alert feeder, inluding Qradar and Exchange connectors
 - [DigitalShadows2TH](https://github.com/TheHive-Project/DigitalShadows2TH) - Alert feeder for DigitalShadows
 - [Zerofox2TH](https://github.com/TheHive-Project/Zerofox2TH) - Alert feeder for ZeroFox
-- [CrowdStrike2TH](https://github.com/xg5-simon/CrowdStrike2TH) - Alert feeder for CrowdStrike, by [@xg5-simon](https://github.com/xg5-simon)
+- [CrowdStrike2TH](https://github.com/theCanary/CrowdStrike2TH) - Alert feeder for CrowdStrike, by [@xg5-simon](https://github.com/xg5-simon)
 - [FireEye2TH](https://github.com/LDO-CERT/FireEye2TH) - FireEye iSIGHT Alert Feeder for TheHive, by [@LDO-CERT](https://github.com/LDO-CERT)
 - [graylog2thehive](https://github.com/ReconInfoSec/graylog2thehive) - Alert feeder for Graylog, by [@ReconInfoSec](https://github.com/ReconInfoSec)
 - [mailgun2thehive](https://github.com/ReconInfoSec/mailgun2thehive) - Simple Python flask app that runs as a web server, and accepts POST requests from your Mailgun routes, by [@ReconInfoSec](https://github.com/ReconInfoSec)
@@ -57,7 +57,7 @@
 - [TheHive WALKOFF app](https://github.com/frikky/WALKOFF/tree/thehive-integration) - A TheHive WALKOFF application, by [@frikky](https://github.com/frikky)
 - [Cyrating Feeder](https://github.com/vletoux/Cyrating2TH) - Cyrating Reputation alert importer for TheHive, by [vletoux](https://github.com/vletoux)
 - [Canaries to TheHive](https://github.com/ReconInfoSec/canaries2thehive) - Create alerts in TheHive from your Thinkst Canary alerts, to be turned into TheHive cases, by [ReconInfoSec](https://github.com/ReconInfoSec)
-- [Watcher](https://github.com/Felix83000/Watcher) - Open Source Cybersecurity Threat Hunting Platform. Developed with Django & React JS, by [@Felix83000](https://github.com/Felix83000)
+- [Watcher](https://github.com/thalesgroup-cert/Watcher) - Open Source Cybersecurity Threat Hunting Platform. Developed with Django & React JS, by [@ThalesCERT](https://github.com/thalesgroup-cert)
 - [thehive-sentinel-integration](https://github.com/NVISOsecurity/thehive-sentinel-integration) - Open solution to integrate TheHive with Microsoft Azure Sentinel and implement also automation, by  [NVisoSecurity](https://github.com/NVISOsecurity)
 
 ### Tools
