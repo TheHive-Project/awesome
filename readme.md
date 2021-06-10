@@ -43,6 +43,7 @@
 - [CrowdStrike2TH](https://github.com/theCanary/CrowdStrike2TH) - Alert feeder for CrowdStrike, by [@xg5-simon](https://github.com/xg5-simon)
 - [FireEye2TH](https://github.com/LDO-CERT/FireEye2TH) - FireEye iSIGHT Alert Feeder for TheHive, by [@LDO-CERT](https://github.com/LDO-CERT)
 - [graylog2thehive](https://github.com/ReconInfoSec/graylog2thehive) - Alert feeder for Graylog, by [@ReconInfoSec](https://github.com/ReconInfoSec)
+- [graylog2thehive4](https://github.com/malinkinsa/graylog2thehive4) - Alert feeder for Graylog from TheHive4, by [@malinkinsa](https://github.com/malinkinsa)
 - [mailgun2thehive](https://github.com/ReconInfoSec/mailgun2thehive) - Simple Python flask app that runs as a web server, and accepts POST requests from your Mailgun routes, by [@ReconInfoSec](https://github.com/ReconInfoSec)
 - [qradar2thehive](https://github.com/pierrebarlet/qradar2thehive) - Alert feeder for Qradar, by [@pierrebarlet](https://github.com/pierrebarlet)
 - [TA-thehive-CE](https://github.com/remg427/TA-thehive-ce) - Splunk Application for TheHive, by [@remg427](https://github.com/remg427)
