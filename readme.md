@@ -119,6 +119,7 @@
 
 - [cortex-tgbot](https://github.com/ilyaglow/cortex-tgbot) - Threat intelligence Telegram bot based on Cortex engine, by [@ilyaglow](https://github.com/ilyaglow)
 - [cortextester](https://github.com/TKCERT/cortextester) - Inspired by cortexutils - a testing framework for Cortex-Analyzers and -Responders, by [@TKCERT](https://github.com/TKCERT)
+- [ThePhish](https://github.com/emalderson/ThePhish) - An automated phishing email analysis tool based on TheHive, Cortex and MISP, by [@emalderson](https://github.com/emalderson)
 
 ### Devops
 
